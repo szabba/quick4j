@@ -13,7 +13,7 @@
     <artifactId>quick4j-junit4</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
-    <name>quick4j-core</name>
+    <name>quick4j-junit4</name>
     <url>http://github.com/szabba/quick4j</url>
 
     <dependencies>
